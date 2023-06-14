@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'landing': "url('/background.jpeg')",
+        'landing-mobile': "url('/background-mobile.jpeg')",
       },
     },
   },
